@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shaam-n/leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaam-n/leetcode-solns/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shaam-n/leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaam-n/leetcode-solns/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -24,6 +26,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shaam-n/leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaam-n/leetcode-solns/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
