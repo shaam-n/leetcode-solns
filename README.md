@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shaam-n/leetcode-solns/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shaam-n/leetcode-solns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaam-n/leetcode-solns/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaam-n/leetcode-solns/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shaam-n/leetcode-solns/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/shaam-n/leetcode-solns/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
